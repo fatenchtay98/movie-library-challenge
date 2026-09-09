@@ -22,6 +22,9 @@ export function Navbar() {
         <nav className="flex items-center gap-2 text-sm sm:gap-4">
           {isAuthenticated ? (
             <>
+              <Link to="/watchlist" className="font-medium text-slate-700 hover:text-slate-900">
+                Watchlist
+              </Link>
               <span className="hidden max-w-[10rem] truncate text-slate-500 sm:inline sm:max-w-none">
                 {user?.email} <span className="text-slate-400">({user?.role})</span>
               </span>

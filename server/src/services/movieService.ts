@@ -4,9 +4,9 @@ import { HttpError } from '../middleware/errorHandler.js';
 import { prisma } from '../lib/prisma.js';
 import type { CreateMovieInput, MovieQuery, UpdateMovieInput } from '../schemas/movieSchemas.js';
 
-type MovieWithGenres = Movie & { genres: (MovieGenre & { genre: Genre })[] };
+export type MovieWithGenres = Movie & { genres: (MovieGenre & { genre: Genre })[] };
 
-function toPublicMovie(movie: MovieWithGenres) {
+export function toPublicMovie(movie: MovieWithGenres) {
   return {
     id: movie.id,
     title: movie.title,

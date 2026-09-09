@@ -3,21 +3,29 @@ import { Link, useNavigate, useParams } from 'react-router-dom';
 
 import { useAuth } from '../api/auth';
 import { useDeleteMovie, useMovie, useUpdateMovie } from '../api/movies';
+import { useDeleteRating, useMyRatings, useSetRating } from '../api/ratings';
 import { ConfirmDialog } from '../components/ConfirmDialog';
 import { Modal } from '../components/Modal';
 import { MovieForm } from '../components/MovieForm';
+import { StarRatingInput } from '../components/StarRatingInput';
+import { WatchlistButton } from '../components/WatchlistButton';
 import type { MovieFormSchema } from '../schemas/movieFormSchema';
 
 export function MovieDetailPage() {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
-  const { isAdmin } = useAuth();
+  const { isAdmin, isAuthenticated } = useAuth();
   const { data: movie, isLoading, isError } = useMovie(id);
 
   const updateMovie = useUpdateMovie();
   const deleteMovie = useDeleteMovie();
   const [isEditing, setIsEditing] = useState(false);
   const [isConfirmingDelete, setIsConfirmingDelete] = useState(false);
+
+  const { data: myRatings } = useMyRatings();
+  const setRating = useSetRating();
+  const deleteRating = useDeleteRating();
+  const myRating = myRatings?.find((r) => r.movieId === id)?.stars ?? 0;
 
   if (isLoading) {
     return <p className="py-12 text-center text-slate-500">Loading…</p>;
@@ -70,7 +78,10 @@ export function MovieDetailPage() {
         </div>
 
         <div className="flex-1">
-          <h1 className="text-2xl font-semibold text-slate-900">{movie.title}</h1>
+          <div className="flex items-start justify-between gap-3">
+            <h1 className="text-2xl font-semibold text-slate-900">{movie.title}</h1>
+            <WatchlistButton movieId={movie.id} className="shrink-0" />
+          </div>
           <p className="mt-1 text-slate-500">
             {movie.director} · {movie.releaseYear} · {movie.durationMinutes} min
           </p>
@@ -83,6 +94,18 @@ export function MovieDetailPage() {
               </span>
             ))}
           </div>
+
+          {isAuthenticated && (
+            <div className="mt-4">
+              <p className="mb-1 text-xs font-medium text-slate-500">Your rating</p>
+              <StarRatingInput
+                value={myRating}
+                isPending={setRating.isPending || deleteRating.isPending}
+                onChange={(stars) => setRating.mutate({ movieId: movie.id, stars })}
+                onClear={() => deleteRating.mutate(movie.id)}
+              />
+            </div>
+          )}
 
           {movie.description && <p className="mt-4 text-sm leading-relaxed text-slate-700">{movie.description}</p>}
 

@@ -58,3 +58,8 @@ export interface MovieFormValues {
   posterUrl?: string;
   genreIds: string[];
 }
+
+export interface MovieRatingEntry {
+  movieId: string;
+  stars: number;
+}

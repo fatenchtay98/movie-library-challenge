@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 
 import type { Movie } from '../types';
+import { WatchlistButton } from './WatchlistButton';
 
 interface MovieCardProps {
   movie: Movie;
@@ -12,7 +13,7 @@ interface MovieCardProps {
 export function MovieCard({ movie, isAdmin, onEdit, onDelete }: MovieCardProps) {
   return (
     <div className="flex flex-col overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm">
-      <Link to={`/movies/${movie.id}`} className="block aspect-[2/3] bg-slate-100">
+      <Link to={`/movies/${movie.id}`} className="relative block aspect-[2/3] bg-slate-100">
         {movie.posterUrl ? (
           <img
             src={movie.posterUrl}
@@ -25,6 +26,7 @@ export function MovieCard({ movie, isAdmin, onEdit, onDelete }: MovieCardProps) 
             No poster
           </div>
         )}
+        <WatchlistButton movieId={movie.id} className="absolute right-2 top-2" />
       </Link>
 
       <div className="flex flex-1 flex-col gap-1 p-3">

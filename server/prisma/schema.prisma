@@ -19,6 +19,9 @@ model User {
   role         Role     @default(USER)
   createdAt    DateTime @default(now())
   updatedAt    DateTime @updatedAt
+
+  watchlist Watchlist[]
+  ratings   MovieRating[]
 }
 
 model Movie {
@@ -33,7 +36,9 @@ model Movie {
   createdAt       DateTime @default(now())
   updatedAt       DateTime @updatedAt
 
-  genres MovieGenre[]
+  genres        MovieGenre[]
+  watchlistedBy Watchlist[]
+  ratings       MovieRating[]
 }
 
 model Genre {
@@ -52,8 +57,32 @@ model MovieGenre {
   // stripping classification off movies because a genre row was deleted
   // is worse than the delete just failing. We don't expose genre deletion
   // via the API anyway, so this only matters as a safety net.
-  genre   Genre @relation(fields: [genreId], references: [id], onDelete: Restrict)
+  genre Genre @relation(fields: [genreId], references: [id], onDelete: Restrict)
 
   @@id([movieId, genreId])
   @@index([genreId])
+}
+
+model Watchlist {
+  userId    String   @db.Uuid
+  movieId   String   @db.Uuid
+  createdAt DateTime @default(now())
+
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  movie Movie @relation(fields: [movieId], references: [id], onDelete: Cascade)
+
+  @@id([userId, movieId])
+}
+
+model MovieRating {
+  userId    String   @db.Uuid
+  movieId   String   @db.Uuid
+  stars     Int
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  movie Movie @relation(fields: [movieId], references: [id], onDelete: Cascade)
+
+  @@id([userId, movieId])
 }
