@@ -1,10 +1,12 @@
 import cookieParser from 'cookie-parser';
 import cors from 'cors';
 import express, { type Express } from 'express';
+import swaggerUi from 'swagger-ui-express';
 
 import { prisma } from './lib/prisma.js';
 import { errorHandler, notFoundHandler } from './middleware/errorHandler.js';
 import { requestLogger } from './middleware/logger.js';
+import { generateOpenApiDocument } from './openapi/document.js';
 import { authRouter } from './routes/authRoutes.js';
 import { genreRouter } from './routes/genreRoutes.js';
 import { movieRouter } from './routes/movieRoutes.js';
@@ -39,6 +41,10 @@ app.use('/api/movies', movieRouter);
 app.use('/api/genres', genreRouter);
 app.use('/api', watchlistRouter);
 app.use('/api', ratingRouter);
+
+const openApiDocument = generateOpenApiDocument();
+app.get('/api/docs/openapi.json', (_req, res) => res.json(openApiDocument));
+app.use('/api/docs', swaggerUi.serve, swaggerUi.setup(openApiDocument));
 
 app.use(notFoundHandler);
 app.use(errorHandler);
