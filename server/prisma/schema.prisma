@@ -1,0 +1,13 @@
+// Prisma configuration only, at this stage. The User / Movie / Genre models
+// (and the migration that creates them) land in the next phase, alongside
+// authentication and movie CRUD — see CLAUDE.md / DECISIONS.md for why this
+// is intentionally left model-less for now.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
