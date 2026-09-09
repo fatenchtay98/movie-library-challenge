@@ -39,11 +39,6 @@ services:
   client:
     build:
       context: ./client
-      args:
-        # Baked in at build time (Vite inlines VITE_* vars) — must be a
-        # host-reachable URL since the browser calls it directly, not the
-        # internal docker network's "server" hostname.
-        VITE_API_URL: http://localhost:${SERVER_PORT:-4000}
     restart: unless-stopped
     depends_on:
       - server

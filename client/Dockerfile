@@ -1,9 +1,5 @@
-FROM node:20-alpine AS build
+FROM node:24-alpine AS build
 WORKDIR /app
-# Vite inlines VITE_* vars at build time, so this has to be a build arg, not a
-# runtime env var — the nginx stage below serves static, already-built files.
-ARG VITE_API_URL
-ENV VITE_API_URL=$VITE_API_URL
 COPY package.json package-lock.json* ./
 RUN npm install
 COPY . .
