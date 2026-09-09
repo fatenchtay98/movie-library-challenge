@@ -24,13 +24,18 @@ RUN npm run build
 FROM base AS runtime
 ENV NODE_ENV=production
 COPY package.json package-lock.json* ./
-# `prisma` (the CLI) is a regular dependency, not a devDependency, on purpose:
-# `docker compose exec server npx prisma migrate deploy` runs against this
-# image, so the CLI has to survive --omit=dev.
+# `prisma` (the CLI) and `tsx` (runs prisma/seed.ts) are regular
+# dependencies, not devDependencies, on purpose: `docker compose exec server
+# npx prisma migrate deploy` / `npm run prisma:seed` run against this image,
+# so both have to survive --omit=dev.
 RUN npm install --omit=dev
 COPY --from=build /app/dist ./dist
 COPY --from=build /app/prisma ./prisma
 COPY --from=build /app/prisma.config.ts ./prisma.config.ts
+# prisma/seed.ts runs via tsx against TS source (not dist/), and imports
+# from ../src/lib/* — so the runtime image needs src/ too, not just the
+# compiled output, purely for that `npm run prisma:seed` exec workflow.
+COPY --from=build /app/src ./src
 
 EXPOSE 4000
 CMD ["node", "dist/server.js"]
