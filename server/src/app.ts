@@ -2,6 +2,7 @@ import cookieParser from 'cookie-parser';
 import cors from 'cors';
 import express, { type Express } from 'express';
 
+import { prisma } from './lib/prisma.js';
 import { errorHandler, notFoundHandler } from './middleware/errorHandler.js';
 import { requestLogger } from './middleware/logger.js';
 
@@ -17,11 +18,15 @@ app.use(
 app.use(cookieParser());
 app.use(express.json());
 
-// Liveness only for now — Prisma Client can't even be generated without at
-// least one model (`prisma generate` errors on an empty schema), so a real
-// DB-connectivity check has to wait for the actual schema next phase.
-app.get('/api/health', (_req, res) => {
-  res.json({ status: 'ok' });
+// Verifies both the API process and its DB connection are up — the thing to
+// curl after `docker compose up` to confirm the stack is wired correctly.
+app.get('/api/health', async (_req, res, next) => {
+  try {
+    await prisma.$queryRaw`SELECT 1`;
+    res.json({ status: 'ok', db: 'connected' });
+  } catch (err) {
+    next(err);
+  }
 });
 
 app.use(notFoundHandler);

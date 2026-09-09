@@ -1,11 +1,3 @@
-// Prisma 7 configuration only, at this stage. The User / Movie / Genre models
-// (and the migration that creates them) land in the next phase, alongside
-// authentication and movie CRUD.
-//
-// Prisma 7 requires a driver adapter (see prisma.config.ts and the future
-// src/lib/prisma.ts) and generates the client into a real, gitignored folder
-// rather than into node_modules - see the `output` path below.
-
 generator client {
   provider = "prisma-client"
   output   = "../src/generated/prisma"
@@ -13,4 +5,55 @@ generator client {
 
 datasource db {
   provider = "postgresql"
+}
+
+enum Role {
+  ADMIN
+  USER
+}
+
+model User {
+  id           String   @id @default(uuid()) @db.Uuid
+  email        String   @unique
+  passwordHash String
+  role         Role     @default(USER)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model Movie {
+  id              String   @id @default(uuid()) @db.Uuid
+  title           String
+  description     String?
+  releaseYear     Int
+  director        String
+  durationMinutes Int
+  rating          Float
+  posterUrl       String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  genres MovieGenre[]
+}
+
+model Genre {
+  id   String @id @default(uuid()) @db.Uuid
+  name String @unique
+
+  movies MovieGenre[]
+}
+
+model MovieGenre {
+  movieId String @db.Uuid
+  genreId String @db.Uuid
+
+  movie Movie @relation(fields: [movieId], references: [id], onDelete: Cascade)
+  // Restrict, not Cascade: genres are static reference data, and silently
+  // stripping classification off movies because a genre row was deleted
+  // is worse than the delete just failing. We don't expose genre deletion
+  // via the API anyway, so this only matters as a safety net.
+  genre   Genre @relation(fields: [genreId], references: [id], onDelete: Restrict)
+
+  @@id([movieId, genreId])
+  @@index([genreId])
 }
