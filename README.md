@@ -283,14 +283,20 @@ one container (see `DECISIONS.md` for why this differs from the 3-service
 2. On Render: **New → Blueprint**, connect the repo. Render reads
    `render.yaml` and provisions a free Postgres instance plus the web
    service automatically, generating a random `JWT_SECRET`.
-3. Once the first deploy finishes, open the service's **Shell** tab and run
-   the same migrate + seed commands as local Docker (see [Quick
-   start](#quick-start-docker-recommended)):
-   ```bash
-   npx prisma migrate deploy
-   npm run prisma:seed
-   ```
-4. Visit the service's `onrender.com` URL.
+3. Wait for the first deploy to finish, then visit the service's
+   `onrender.com` URL.
+
+No manual migrate/seed step here, unlike local Docker — the free plan has
+no Shell/SSH access and no one-off jobs, so `deploy/start.sh` runs
+`prisma migrate deploy` and a guarded seed
+(`deploy/seed-if-empty.mjs`) on every container start instead. Migrating is
+safe to repeat (a no-op once applied); seeding only actually runs the
+first time, when the movies table is empty — it explicitly does **not**
+reseed on every restart, because the free tier restarts the container on
+every wake-from-sleep, and the underlying seed is destructive (see
+`DECISIONS.md`). Local Docker keeps the original manual, always-reseeds
+workflow (see [Quick start](#quick-start-docker-recommended)) — the two are
+deliberately different for deliberately different reasons.
 
 Free-tier notes: the web service spins down after inactivity (a cold start
 takes a few seconds on the next visit), and free Postgres instances expire

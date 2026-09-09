@@ -47,6 +47,7 @@ COPY --from=client-build /app/client/dist /usr/share/nginx/html
 
 COPY deploy/nginx.conf.template /etc/nginx/templates/default.conf.template
 COPY deploy/start.sh ./start.sh
+COPY deploy/seed-if-empty.mjs ./deploy/seed-if-empty.mjs
 RUN chmod +x ./start.sh
 
 EXPOSE 10000

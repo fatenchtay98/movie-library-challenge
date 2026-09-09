@@ -173,6 +173,22 @@ versus (a) touching the most security-sensitive code in the app
 `docker-compose.yml` 3-service setup is untouched and stays the reviewer's
 primary path.
 
+**Render's free plan auto-migrates and conditionally auto-seeds on
+container start, instead of a manual one-time step.** Render's own
+mechanism for this (a "pre-deploy command") and its Shell/one-off-jobs
+access are both paid-plan-only, so there's no way to run
+`npx prisma migrate deploy`/`npm run prisma:seed` by hand after the first
+deploy on the free tier — unlike local Docker, where that's still a
+deliberate manual step (see above). `deploy/start.sh` runs
+`prisma migrate deploy` on every boot (safe: a no-op once applied) and
+`deploy/seed-if-empty.mjs` (a guarded wrapper, not a change to `seed.ts`
+itself) checks the movie count first and only actually seeds when it's
+zero. That guard is required, not just nice-to-have: free-tier containers
+restart on every wake-from-sleep, and the underlying seed destructively
+wipes/regenerates movies, so without the guard every idle-then-visited
+demo would silently lose its watchlist/ratings/admin edits on a schedule
+outside anyone's control.
+
 **Deliberately deferred, production-auth features:** refresh tokens (a
 single `JWT_EXPIRES_IN`-lived token with no rotation — expiry alone forces
 re-login), rate limiting on login/register (no brute-force protection at
