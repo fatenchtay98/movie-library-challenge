@@ -14,7 +14,12 @@ rationale, trade-offs, and how AI was used during development.
   forward preserve the current view
 - Movie detail view
 - Admin-only create/edit forms and delete (with confirmation)
+- Personal watchlist and 1–5 star ratings (any logged-in user, not just
+  admins) — see [Watchlist & ratings](#watchlist--ratings)
+- Interactive API docs at `/api/docs` (Swagger UI) — see [API
+  documentation](#api-documentation)
 - Responsive layout (desktop and mobile)
+- Dark, cinematic UI theme
 - 220 real movies (sourced once from TMDB, committed locally — see
   [Seeded accounts](#seeded-accounts)) across 15 genres
 
@@ -55,11 +60,11 @@ movie-library-challenge/
 ├── DECISIONS.md
 ├── server/
 │   ├── src/
-│   │   ├── app.ts, server.ts       # Express app / entry point
-│   │   ├── routes/                  # auth, movies, genres — thin, validate + delegate
-│   │   ├── services/                 # movieService — Prisma queries, business rules
+│   │   ├── app.ts, server.ts       # Express app / entry point / Swagger mount
+│   │   ├── routes/                  # auth, movies, genres, watchlist, rating — thin, validate + delegate
+│   │   ├── services/                 # movieService, watchlistService, ratingService — Prisma queries, business rules
 │   │   ├── middleware/                # authenticate, requireRole, validate, errorHandler, logger
-│   │   ├── schemas/                    # Zod request validation
+│   │   ├── schemas/                    # Zod request validation (also feeds the generated OpenAPI spec)
 │   │   └── lib/                         # prisma client, jwt, password hashing, auth cookie
 │   ├── prisma/
 │   │   ├── schema.prisma
@@ -71,8 +76,8 @@ movie-library-challenge/
 │   └── Dockerfile
 └── client/
     ├── src/
-    │   ├── pages/            # LoginPage, RegisterPage, MovieLibraryPage, MovieDetailPage
-    │   ├── components/         # MovieCard, MovieForm, MovieFilters, Modal, Navbar, …
+    │   ├── pages/            # LoginPage, RegisterPage, MovieLibraryPage, MovieDetailPage, WatchlistPage
+    │   ├── components/         # MovieCard, MovieForm, MovieFilters, WatchlistButton, StarRatingInput, Modal, Navbar, Footer, …
     │   ├── api/                  # fetch wrappers + TanStack Query hooks
     │   └── lib/                    # apiClient (fetch wrapper + typed errors)
     ├── nginx.conf             # /api proxy + SPA fallback
@@ -232,6 +237,35 @@ On the frontend, all of this state lives in the URL's query string (not
 component state), and search/year are debounced before updating it — so
 typing doesn't refetch on every keystroke, but the URL (and therefore
 refresh/back/forward) always reflects what's actually on screen.
+
+## Watchlist & ratings
+
+Any logged-in user (not just `ADMIN`) can maintain a personal watchlist and
+a 1–5 star rating per movie — separate from the catalog's own `rating`
+field, which only an admin edit changes.
+
+| Method | Route | Purpose |
+|---|---|---|
+| `GET` | `/api/me/watchlist` | List the current user's watchlisted movies |
+| `POST` | `/api/movies/:id/watchlist` | Add a movie to the watchlist |
+| `DELETE` | `/api/movies/:id/watchlist` | Remove a movie from the watchlist |
+| `GET` | `/api/me/ratings` | List the current user's ratings |
+| `PUT` | `/api/movies/:id/rating` | Set (or update) a 1–5 star rating |
+| `DELETE` | `/api/movies/:id/rating` | Clear a rating |
+
+All six routes require `authenticate` only (no role check) — this is the
+one part of the API a plain `USER` can write to. In the UI, the bookmark
+icon on each movie card and the star row on the movie detail page drive
+these; `/watchlist` is the dedicated watchlist page.
+
+## API documentation
+
+Interactive Swagger UI, generated from the same Zod schemas the routes
+validate against (`@asteasolutions/zod-to-openapi`), is served at:
+
+- **http://localhost:3000/api/docs** (through nginx) or
+  **http://localhost:4000/api/docs** (direct)
+- Raw OpenAPI JSON at the same path + `/openapi.json`
 
 ## Reviewer notes
 
