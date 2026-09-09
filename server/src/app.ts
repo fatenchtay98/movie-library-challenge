@@ -6,6 +6,8 @@ import { prisma } from './lib/prisma.js';
 import { errorHandler, notFoundHandler } from './middleware/errorHandler.js';
 import { requestLogger } from './middleware/logger.js';
 import { authRouter } from './routes/authRoutes.js';
+import { genreRouter } from './routes/genreRoutes.js';
+import { movieRouter } from './routes/movieRoutes.js';
 
 export const app: Express = express();
 
@@ -31,6 +33,8 @@ app.get('/api/health', async (_req, res, next) => {
 });
 
 app.use('/api/auth', authRouter);
+app.use('/api/movies', movieRouter);
+app.use('/api/genres', genreRouter);
 
 app.use(notFoundHandler);
 app.use(errorHandler);
