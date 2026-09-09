@@ -40,8 +40,8 @@ export function WatchlistButton({ movieId, className = '' }: WatchlistButtonProp
       disabled={isPending}
       aria-pressed={isSaved}
       aria-label={isSaved ? 'Remove from watchlist' : 'Add to watchlist'}
-      className={`flex items-center justify-center rounded-full bg-white/90 p-1.5 shadow hover:bg-white disabled:opacity-50 ${
-        isSaved ? 'text-amber-500' : 'text-slate-600'
+      className={`flex items-center justify-center rounded-full bg-black/60 p-1.5 shadow backdrop-blur-sm transition-colors hover:bg-black/80 disabled:opacity-50 ${
+        isSaved ? 'text-amber-400' : 'text-zinc-200'
       } ${className}`}
     >
       <svg

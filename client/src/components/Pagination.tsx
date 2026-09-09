@@ -14,7 +14,7 @@ export function Pagination({ pagination, onPageChange }: PaginationProps) {
 
   return (
     <div className="flex items-center justify-between gap-4 pt-2">
-      <p className="text-sm text-slate-500">
+      <p className="text-sm text-zinc-400">
         Page {page} of {totalPages} ({total} movies)
       </p>
       <div className="flex gap-2">
@@ -22,7 +22,7 @@ export function Pagination({ pagination, onPageChange }: PaginationProps) {
           type="button"
           onClick={() => onPageChange(page - 1)}
           disabled={page <= 1}
-          className="rounded-md border border-slate-300 px-3 py-1.5 text-sm font-medium text-slate-700 hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-50"
+          className="rounded-md border border-zinc-700 px-3 py-1.5 text-sm font-medium text-zinc-300 transition-colors hover:border-zinc-600 hover:bg-zinc-800 disabled:cursor-not-allowed disabled:opacity-40"
         >
           Previous
         </button>
@@ -30,7 +30,7 @@ export function Pagination({ pagination, onPageChange }: PaginationProps) {
           type="button"
           onClick={() => onPageChange(page + 1)}
           disabled={page >= totalPages}
-          className="rounded-md border border-slate-300 px-3 py-1.5 text-sm font-medium text-slate-700 hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-50"
+          className="rounded-md border border-zinc-700 px-3 py-1.5 text-sm font-medium text-zinc-300 transition-colors hover:border-zinc-600 hover:bg-zinc-800 disabled:cursor-not-allowed disabled:opacity-40"
         >
           Next
         </button>

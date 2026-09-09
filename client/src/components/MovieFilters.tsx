@@ -9,6 +9,9 @@ const SORT_OPTIONS: { value: string; label: string }[] = [
   { value: 'rating-asc', label: 'Lowest rated' },
 ];
 
+const fieldClass =
+  'rounded-md border border-zinc-700 bg-zinc-900 px-3 py-2 text-sm text-zinc-100 placeholder:text-zinc-500 transition-colors focus:border-emerald-500 focus:outline-none focus:ring-1 focus:ring-emerald-500';
+
 interface MovieFiltersProps {
   searchInput: string;
   onSearchInputChange: (value: string) => void;
@@ -42,14 +45,14 @@ export function MovieFilters({
         onChange={(e) => onSearchInputChange(e.target.value)}
         placeholder="Search title or director…"
         aria-label="Search movies"
-        className="w-full rounded-md border border-slate-300 px-3 py-2 text-sm sm:max-w-xs"
+        className={`w-full sm:max-w-xs ${fieldClass}`}
       />
 
       <select
         value={genre}
         onChange={(e) => onGenreChange(e.target.value)}
         aria-label="Filter by genre"
-        className="rounded-md border border-slate-300 px-3 py-2 text-sm"
+        className={fieldClass}
       >
         <option value="">All genres</option>
         {genres.map((g) => (
@@ -65,7 +68,7 @@ export function MovieFilters({
         onChange={(e) => onYearChange(e.target.value)}
         placeholder="Year"
         aria-label="Filter by release year"
-        className="w-24 rounded-md border border-slate-300 px-3 py-2 text-sm"
+        className={`w-24 ${fieldClass}`}
       />
 
       <select
@@ -78,7 +81,7 @@ export function MovieFilters({
           onSortChange(nextSortBy, nextSortOrder);
         }}
         aria-label="Sort movies"
-        className="rounded-md border border-slate-300 px-3 py-2 text-sm"
+        className={fieldClass}
       >
         {SORT_OPTIONS.map((option) => (
           <option key={option.value} value={option.value}>

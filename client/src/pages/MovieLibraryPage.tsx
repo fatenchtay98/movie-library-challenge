@@ -7,6 +7,7 @@ import { useCreateMovie, useDeleteMovie, useMovies, useUpdateMovie } from '../ap
 import { ConfirmDialog } from '../components/ConfirmDialog';
 import { Modal } from '../components/Modal';
 import { MovieCard } from '../components/MovieCard';
+import { MovieCardSkeleton } from '../components/MovieCardSkeleton';
 import { MovieFilters } from '../components/MovieFilters';
 import { MovieForm } from '../components/MovieForm';
 import { Pagination } from '../components/Pagination';
@@ -111,12 +112,12 @@ export function MovieLibraryPage() {
   return (
     <main className="mx-auto max-w-6xl px-4 py-6">
       <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-        <h1 className="text-2xl font-semibold text-slate-900">Movie Library</h1>
+        <h1 className="text-2xl font-semibold text-zinc-100">Movie Library</h1>
         {isAdmin && (
           <button
             type="button"
             onClick={() => setFormModal({ mode: 'create' })}
-            className="rounded-md bg-slate-900 px-4 py-2 text-sm font-medium text-white hover:bg-slate-800"
+            className="rounded-md bg-emerald-600 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-emerald-500"
           >
             + Add Movie
           </button>
@@ -140,16 +141,22 @@ export function MovieLibraryPage() {
         />
       </div>
 
-      {isLoading && <p className="py-12 text-center text-slate-500">Loading movies…</p>}
+      {isLoading && (
+        <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+          {Array.from({ length: 10 }, (_, i) => (
+            <MovieCardSkeleton key={i} />
+          ))}
+        </div>
+      )}
 
       {isError && (
-        <p className="py-12 text-center text-red-600">
+        <p className="py-12 text-center text-red-400">
           Something went wrong loading movies. Please try again.
         </p>
       )}
 
       {!isLoading && !isError && data?.data.length === 0 && (
-        <p className="py-12 text-center text-slate-500">No movies match your filters.</p>
+        <p className="py-12 text-center text-zinc-500">No movies match your filters.</p>
       )}
 
       {!isLoading && !isError && data && data.data.length > 0 && (

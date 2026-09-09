@@ -28,14 +28,27 @@ export function MovieDetailPage() {
   const myRating = myRatings?.find((r) => r.movieId === id)?.stars ?? 0;
 
   if (isLoading) {
-    return <p className="py-12 text-center text-slate-500">Loading…</p>;
+    return (
+      <main className="mx-auto max-w-4xl px-4 py-6">
+        <div className="mb-4 h-4 w-32 animate-pulse rounded bg-zinc-800" />
+        <div className="flex flex-col gap-6 sm:flex-row">
+          <div className="aspect-[2/3] w-full max-w-xs shrink-0 animate-pulse rounded-lg bg-zinc-800" />
+          <div className="flex-1 space-y-3">
+            <div className="h-7 w-2/3 animate-pulse rounded bg-zinc-800" />
+            <div className="h-4 w-1/2 animate-pulse rounded bg-zinc-800" />
+            <div className="h-4 w-1/4 animate-pulse rounded bg-zinc-800" />
+            <div className="h-20 w-full animate-pulse rounded bg-zinc-800" />
+          </div>
+        </div>
+      </main>
+    );
   }
 
   if (isError || !movie) {
     return (
       <main className="mx-auto max-w-2xl px-4 py-12 text-center">
-        <p className="text-slate-500">Movie not found.</p>
-        <Link to="/" className="mt-4 inline-block text-sm font-medium text-slate-700 underline">
+        <p className="text-zinc-500">Movie not found.</p>
+        <Link to="/" className="mt-4 inline-block text-sm font-medium text-emerald-400 hover:underline">
           Back to library
         </Link>
       </main>
@@ -64,32 +77,32 @@ export function MovieDetailPage() {
 
   return (
     <main className="mx-auto max-w-4xl px-4 py-6">
-      <Link to="/" className="mb-4 inline-block text-sm text-slate-500 hover:text-slate-700">
+      <Link to="/" className="mb-4 inline-block text-sm text-zinc-400 transition-colors hover:text-zinc-200">
         ← Back to library
       </Link>
 
       <div className="flex flex-col gap-6 sm:flex-row">
-        <div className="aspect-[2/3] w-full max-w-xs shrink-0 overflow-hidden rounded-lg bg-slate-100">
+        <div className="aspect-[2/3] w-full max-w-xs shrink-0 overflow-hidden rounded-lg bg-zinc-800 shadow-lg shadow-black/40">
           {movie.posterUrl ? (
             <img src={movie.posterUrl} alt={`${movie.title} poster`} className="h-full w-full object-cover" />
           ) : (
-            <div className="flex h-full w-full items-center justify-center text-slate-400">No poster</div>
+            <div className="flex h-full w-full items-center justify-center text-zinc-500">No poster</div>
           )}
         </div>
 
         <div className="flex-1">
           <div className="flex items-start justify-between gap-3">
-            <h1 className="text-2xl font-semibold text-slate-900">{movie.title}</h1>
+            <h1 className="text-2xl font-semibold text-zinc-100">{movie.title}</h1>
             <WatchlistButton movieId={movie.id} className="shrink-0" />
           </div>
-          <p className="mt-1 text-slate-500">
+          <p className="mt-1 text-zinc-400">
             {movie.director} · {movie.releaseYear} · {movie.durationMinutes} min
           </p>
-          <p className="mt-1 text-lg font-medium text-amber-600">★ {movie.rating.toFixed(1)}</p>
+          <p className="mt-1 text-lg font-medium text-amber-400">★ {movie.rating.toFixed(1)}</p>
 
           <div className="mt-3 flex flex-wrap gap-1.5">
             {movie.genres.map((genre) => (
-              <span key={genre.id} className="rounded-full bg-slate-100 px-2.5 py-1 text-xs text-slate-600">
+              <span key={genre.id} className="rounded-full bg-zinc-800 px-2.5 py-1 text-xs text-zinc-300">
                 {genre.name}
               </span>
             ))}
@@ -97,7 +110,7 @@ export function MovieDetailPage() {
 
           {isAuthenticated && (
             <div className="mt-4">
-              <p className="mb-1 text-xs font-medium text-slate-500">Your rating</p>
+              <p className="mb-1 text-xs font-medium text-zinc-500">Your rating</p>
               <StarRatingInput
                 value={myRating}
                 isPending={setRating.isPending || deleteRating.isPending}
@@ -107,21 +120,21 @@ export function MovieDetailPage() {
             </div>
           )}
 
-          {movie.description && <p className="mt-4 text-sm leading-relaxed text-slate-700">{movie.description}</p>}
+          {movie.description && <p className="mt-4 text-sm leading-relaxed text-zinc-300">{movie.description}</p>}
 
           {isAdmin && (
             <div className="mt-6 flex gap-3">
               <button
                 type="button"
                 onClick={() => setIsEditing(true)}
-                className="rounded-md border border-slate-300 px-4 py-2 text-sm font-medium text-slate-700 hover:bg-slate-50"
+                className="rounded-md border border-zinc-700 px-4 py-2 text-sm font-medium text-zinc-300 transition-colors hover:border-zinc-600 hover:bg-zinc-800"
               >
                 Edit
               </button>
               <button
                 type="button"
                 onClick={() => setIsConfirmingDelete(true)}
-                className="rounded-md border border-red-200 px-4 py-2 text-sm font-medium text-red-600 hover:bg-red-50"
+                className="rounded-md border border-red-900/60 px-4 py-2 text-sm font-medium text-red-400 transition-colors hover:bg-red-950/50"
               >
                 Delete
               </button>
