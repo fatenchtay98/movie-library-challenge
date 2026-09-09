@@ -1,19 +1,21 @@
 import 'dotenv/config';
 
 import { randomUUID } from 'node:crypto';
-
-import { faker } from '@faker-js/faker';
+import { readFileSync } from 'node:fs';
+import path from 'node:path';
 
 import { hashPassword } from '../src/lib/password.js';
 import { prisma } from '../src/lib/prisma.js';
 import { Role } from '../src/generated/prisma/client.js';
 
-// Fixed seed -> the same 220 movies (titles, years, genre assignments, etc.)
-// every run, so setup is predictable for review. Movie *ids* are still fresh
-// UUIDs each run (see below) - only the human-visible content is
-// deterministic, which is what actually matters for a repeatable demo.
-const FAKER_SEED = 42;
-const MOVIE_COUNT = 220;
+// Real movies, sourced once from TMDB via scripts/fetchTmdbMovies.ts and
+// committed here — not generated at seed time, and not fetched from TMDB at
+// seed/run time either. Re-running this script is fully offline and
+// deterministic: the same prisma/movies.json every time, no network call,
+// no TMDB API key required. See DECISIONS.md for the 6-month-cache trade-off
+// this implies (TMDB's terms want data refreshed periodically; a one-time
+// take-home submission doesn't need that, a long-lived deployment would).
+const MOVIES_DATASET_PATH = path.resolve(import.meta.dirname, 'movies.json');
 
 const GENRE_NAMES = [
   'Action',
@@ -38,9 +40,21 @@ const SEED_ACCOUNTS = [
   { email: 'user@movielibrary.local', password: 'password123', role: Role.USER },
 ] as const;
 
-function randomTitle(): string {
-  const words = faker.word.words({ count: { min: 2, max: 5 } }).split(' ');
-  return words.map((word) => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+interface SeedMovie {
+  title: string;
+  description?: string;
+  releaseYear: number;
+  director: string;
+  durationMinutes: number;
+  rating: number;
+  posterUrl?: string;
+  genreNames: string[];
+}
+
+function loadMoviesDataset(): SeedMovie[] {
+  const raw = readFileSync(MOVIES_DATASET_PATH, 'utf-8');
+  const parsed = JSON.parse(raw) as { movies: SeedMovie[] };
+  return parsed.movies;
 }
 
 async function seedAccounts(): Promise<void> {
@@ -79,37 +93,35 @@ async function seedMovies(genreIdByName: Record<string, string>): Promise<void> 
   // would also wipe any manually-created movies; worth revisiting then.
   await prisma.movie.deleteMany({});
 
-  const genreNames = Object.keys(genreIdByName);
-  const currentYear = new Date().getFullYear();
+  const dataset = loadMoviesDataset();
 
-  const movies = Array.from({ length: MOVIE_COUNT }, () => ({
+  const movies = dataset.map((movie) => ({
     id: randomUUID(),
-    title: randomTitle(),
-    description: faker.lorem.paragraph(),
-    releaseYear: faker.number.int({ min: 1960, max: currentYear }),
-    director: faker.person.fullName(),
-    durationMinutes: faker.number.int({ min: 75, max: 210 }),
-    rating: faker.number.float({ min: 0, max: 10, fractionDigits: 1 }),
-    posterUrl: `https://picsum.photos/seed/movie-${randomUUID()}/400/600`,
+    title: movie.title,
+    description: movie.description ?? null,
+    releaseYear: movie.releaseYear,
+    director: movie.director,
+    durationMinutes: movie.durationMinutes,
+    rating: movie.rating,
+    posterUrl: movie.posterUrl ?? null,
+    genreNames: movie.genreNames,
   }));
 
-  await prisma.movie.createMany({ data: movies });
-
-  const movieGenreRows = movies.flatMap((movie) => {
-    const genreCount = faker.number.int({ min: 1, max: 3 });
-    const genresForMovie = faker.helpers.arrayElements(genreNames, genreCount);
-    return genresForMovie.map((name) => ({
-      movieId: movie.id,
-      genreId: genreIdByName[name]!,
-    }));
+  await prisma.movie.createMany({
+    data: movies.map(({ genreNames: _genreNames, ...movie }) => movie),
   });
+
+  const movieGenreRows = movies.flatMap((movie) =>
+    movie.genreNames
+      .map((name) => genreIdByName[name])
+      .filter((genreId): genreId is string => !!genreId)
+      .map((genreId) => ({ movieId: movie.id, genreId })),
+  );
 
   await prisma.movieGenre.createMany({ data: movieGenreRows });
 }
 
 async function main(): Promise<void> {
-  faker.seed(FAKER_SEED);
-
   await seedAccounts();
   const genreIdByName = await seedGenres();
   await seedMovies(genreIdByName);

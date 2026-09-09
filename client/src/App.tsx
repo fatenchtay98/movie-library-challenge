@@ -1,5 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 
+import { Footer } from './components/Footer';
 import { Navbar } from './components/Navbar';
 import { LoginPage } from './pages/LoginPage';
 import { MovieDetailPage } from './pages/MovieDetailPage';
@@ -9,7 +10,7 @@ import { WatchlistPage } from './pages/WatchlistPage';
 
 function App() {
   return (
-    <div className="min-h-screen bg-zinc-950 text-zinc-100">
+    <div className="flex min-h-screen flex-col bg-zinc-950 text-zinc-100">
       <Navbar />
       <Routes>
         <Route path="/" element={<MovieLibraryPage />} />
@@ -18,6 +19,7 @@ function App() {
         <Route path="/login" element={<LoginPage />} />
         <Route path="/register" element={<RegisterPage />} />
       </Routes>
+      <Footer />
     </div>
   );
 }

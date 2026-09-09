@@ -1,0 +1,3017 @@
+{
+  "source": "TMDB (https://www.themoviedb.org/)",
+  "fetchedAt": "2026-09-09T12:30:49.035Z",
+  "count": 220,
+  "movies": [
+    {
+      "title": "Spider-Man: Brand New Day",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "releaseYear": 2026,
+      "director": "Destin Daniel Cretton",
+      "durationMinutes": 145,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Mayday",
+      "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+      "releaseYear": 2026,
+      "director": "Jonathan Goldstein",
+      "durationMinutes": 111,
+      "rating": 8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "genreNames": [
+        "Action",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "The Runner",
+      "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+      "releaseYear": 2026,
+      "director": "Kevin Macdonald",
+      "durationMinutes": 86,
+      "rating": 6.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+      "genreNames": [
+        "Thriller",
+        "Action"
+      ]
+    },
+    {
+      "title": "Mutiny",
+      "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "releaseYear": 2026,
+      "director": "Jean-François Richet",
+      "durationMinutes": 95,
+      "rating": 6.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Colony",
+      "description": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "releaseYear": 2026,
+      "director": "Yeon Sang-ho",
+      "durationMinutes": 123,
+      "rating": 8.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "genreNames": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "releaseYear": 2026,
+      "director": "Dave Green",
+      "durationMinutes": 103,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+      "genreNames": [
+        "Comedy",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "The Odyssey",
+      "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "releaseYear": 2026,
+      "director": "Christopher Nolan",
+      "durationMinutes": 173,
+      "rating": 8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "genreNames": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "releaseYear": 2026,
+      "director": "Curry Barker",
+      "durationMinutes": 109,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "genreNames": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Moana",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "releaseYear": 2026,
+      "director": "Thomas Kail",
+      "durationMinutes": 115,
+      "rating": 6.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "genreNames": [
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "The Last Sunrise",
+      "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+      "releaseYear": 2026,
+      "director": "Carlson Young",
+      "durationMinutes": 107,
+      "rating": 6.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+      "genreNames": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "releaseYear": 2026,
+      "director": "Andrew Stanton",
+      "durationMinutes": 102,
+      "rating": 8.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "genreNames": [
+        "Animation",
+        "Comedy",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Facing El Chapo",
+      "description": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+      "releaseYear": 2026,
+      "director": "Chava Cartas",
+      "durationMinutes": 91,
+      "rating": 8.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+      "genreNames": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Batman: Knightfall Part 1: Knightfall",
+      "description": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+      "releaseYear": 2026,
+      "director": "Jeff Wamester",
+      "durationMinutes": 79,
+      "rating": 9.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+      "genreNames": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "releaseYear": 2026,
+      "director": "Pierre Coffin",
+      "durationMinutes": 90,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "genreNames": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "The Whisper Man",
+      "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "releaseYear": 2026,
+      "director": "James Ashcroft",
+      "durationMinutes": 114,
+      "rating": 6.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+      "genreNames": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "releaseYear": 2026,
+      "director": "Steven Spielberg",
+      "durationMinutes": 146,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Project Hail Mary",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "releaseYear": 2026,
+      "director": "Phil Lord",
+      "durationMinutes": 157,
+      "rating": 8.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Scary Movie",
+      "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "releaseYear": 2026,
+      "director": "Michael Tiddes",
+      "durationMinutes": 96,
+      "rating": 6.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+      "genreNames": [
+        "Comedy"
+      ]
+    },
+    {
+      "title": "Backrooms",
+      "description": "A strange doorway appears in the basement of a furniture showroom.",
+      "releaseYear": 2026,
+      "director": "Kane Parsons",
+      "durationMinutes": 111,
+      "rating": 7.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "genreNames": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+      "releaseYear": 2021,
+      "director": "Jon Watts",
+      "durationMinutes": 148,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "releaseYear": 1994,
+      "director": "Frank Darabont",
+      "durationMinutes": 142,
+      "rating": 8.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "genreNames": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "title": "The Mandalorian and Grogu",
+      "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "releaseYear": 2026,
+      "director": "Jon Favreau",
+      "durationMinutes": 132,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Death of Robin Hood",
+      "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "releaseYear": 2026,
+      "director": "Michael Sarnoski",
+      "durationMinutes": 123,
+      "rating": 6.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "genreNames": [
+        "Adventure",
+        "Drama",
+        "Action"
+      ]
+    },
+    {
+      "title": "Avatar Aang: The Last Airbender",
+      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "releaseYear": 2026,
+      "director": "Lauren Montgomery",
+      "durationMinutes": 99,
+      "rating": 9.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "War of the Worlds",
+      "description": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+      "releaseYear": 2025,
+      "director": "Rich Lee",
+      "durationMinutes": 91,
+      "rating": 4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Deep Water",
+      "description": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
+      "releaseYear": 2026,
+      "director": "Renny Harlin",
+      "durationMinutes": 107,
+      "rating": 7.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg",
+      "genreNames": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "The Super Mario Galaxy Movie",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "releaseYear": 2026,
+      "director": "Aaron Horvath",
+      "durationMinutes": 98,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "genreNames": [
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ]
+    },
+    {
+      "title": "Supergirl",
+      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "releaseYear": 2026,
+      "director": "Craig Gillespie",
+      "durationMinutes": 108,
+      "rating": 6.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "releaseYear": 2018,
+      "director": "Anthony Russo",
+      "durationMinutes": 149,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "genreNames": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Shadow's Edge",
+      "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+      "releaseYear": 2025,
+      "director": "Larry Yang",
+      "durationMinutes": 142,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
+      "genreNames": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+      "releaseYear": 2025,
+      "director": "Haruo Sotozaki",
+      "durationMinutes": 156,
+      "rating": 8.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+      "genreNames": [
+        "Animation",
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Avatar: Fire and Ash",
+      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "releaseYear": 2025,
+      "director": "James Cameron",
+      "durationMinutes": 198,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "The Dog Stars",
+      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+      "releaseYear": 2026,
+      "director": "Ridley Scott",
+      "durationMinutes": 119,
+      "rating": 6.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Drama",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Interstellar",
+      "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "releaseYear": 2014,
+      "director": "Christopher Nolan",
+      "durationMinutes": 169,
+      "rating": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "genreNames": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Masters of the Universe",
+      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "releaseYear": 2026,
+      "director": "Travis Knight",
+      "durationMinutes": 141,
+      "rating": 7.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "genreNames": [
+        "Action",
+        "Fantasy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Zootopia 2",
+      "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "releaseYear": 2025,
+      "director": "Jared Bush",
+      "durationMinutes": 108,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Mystery"
+      ]
+    },
+    {
+      "title": "The Godfather",
+      "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "releaseYear": 1972,
+      "director": "Francis Ford Coppola",
+      "durationMinutes": 175,
+      "rating": 8.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "genreNames": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "title": "The Odyssey",
+      "description": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+      "releaseYear": 2026,
+      "director": "Marcel Walz",
+      "durationMinutes": 86,
+      "rating": 4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ]
+    },
+    {
+      "title": "Evil Dead Burn",
+      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "releaseYear": 2026,
+      "director": "Sébastien Vaniček",
+      "durationMinutes": 110,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "genreNames": [
+        "Horror"
+      ]
+    },
+    {
+      "title": "Avengers: Endgame",
+      "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "releaseYear": 2019,
+      "director": "Anthony Russo",
+      "durationMinutes": 181,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "genreNames": [
+        "Adventure",
+        "Sci-Fi",
+        "Action"
+      ]
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "description": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+      "releaseYear": 2017,
+      "director": "Jon Watts",
+      "durationMinutes": 133,
+      "rating": 7.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Shelter",
+      "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "releaseYear": 2026,
+      "director": "Ric Roman Waugh",
+      "durationMinutes": 107,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg",
+      "genreNames": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "The Dark Knight",
+      "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "releaseYear": 2008,
+      "director": "Christopher Nolan",
+      "durationMinutes": 152,
+      "rating": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Michael",
+      "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "releaseYear": 2026,
+      "director": "Antoine Fuqua",
+      "durationMinutes": 128,
+      "rating": 8.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+      "genreNames": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Devil Wears Prada 2",
+      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "releaseYear": 2026,
+      "director": "David Frankel",
+      "durationMinutes": 119,
+      "rating": 7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "genreNames": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Deadpool & Wolverine",
+      "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+      "releaseYear": 2024,
+      "director": "Shawn Levy",
+      "durationMinutes": 128,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "genreNames": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "description": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+      "releaseYear": 2001,
+      "director": "Chris Columbus",
+      "durationMinutes": 152,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "The End of Oak Street",
+      "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "releaseYear": 2026,
+      "director": "David Robert Mitchell",
+      "durationMinutes": 100,
+      "rating": 6.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Spider-Man",
+      "description": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+      "releaseYear": 2002,
+      "director": "Sam Raimi",
+      "durationMinutes": 121,
+      "rating": 7.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+      "genreNames": [
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Oppenheimer",
+      "description": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+      "releaseYear": 2023,
+      "director": "Christopher Nolan",
+      "durationMinutes": 181,
+      "rating": 8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "genreNames": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Last House",
+      "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "releaseYear": 2026,
+      "director": "Louis Leterrier",
+      "durationMinutes": 110,
+      "rating": 6.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "genreNames": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Captain America: Brave New World",
+      "description": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+      "releaseYear": 2025,
+      "director": "Julius Onah",
+      "durationMinutes": 119,
+      "rating": 6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+      "releaseYear": 2023,
+      "director": "Justin K. Thompson",
+      "durationMinutes": 140,
+      "rating": 8.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "genreNames": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Titanic",
+      "description": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+      "releaseYear": 1997,
+      "director": "James Cameron",
+      "durationMinutes": 194,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "genreNames": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Prison on Fire",
+      "description": "A veteran inmate takes a newcomer under his wing as the pair confront both other violent inmates and the prison's corrupt wardens.",
+      "releaseYear": 1987,
+      "director": "Ringo Lam Ling-Tung",
+      "durationMinutes": 101,
+      "rating": 7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/59o7OyB8J37GwOAod9mhgJjhgH2.jpg",
+      "genreNames": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Avengers",
+      "description": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "releaseYear": 2012,
+      "director": "Joss Whedon",
+      "durationMinutes": 143,
+      "rating": 8.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Inception",
+      "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+      "releaseYear": 2010,
+      "director": "Christopher Nolan",
+      "durationMinutes": 148,
+      "rating": 8.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "genreNames": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Your Heart Will Be Broken",
+      "description": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+      "releaseYear": 2026,
+      "director": "Mikhail Vaynberg",
+      "durationMinutes": 134,
+      "rating": 7.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+      "genreNames": [
+        "Romance"
+      ]
+    },
+    {
+      "title": "Kraken",
+      "description": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
+      "releaseYear": 2026,
+      "director": "Pål Øie",
+      "durationMinutes": 94,
+      "rating": 6.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg",
+      "genreNames": [
+        "Horror",
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Hoppers",
+      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "releaseYear": 2026,
+      "director": "Daniel Chong",
+      "durationMinutes": 104,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "genreNames": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Hoppers",
+      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "releaseYear": 2026,
+      "director": "Daniel Chong",
+      "durationMinutes": 104,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "genreNames": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Iron Man",
+      "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+      "releaseYear": 2008,
+      "director": "Jon Favreau",
+      "durationMinutes": 126,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "genreNames": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "description": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+      "releaseYear": 2018,
+      "director": "Bob Persichetti",
+      "durationMinutes": 117,
+      "rating": 8.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "genreNames": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Hotel Desire",
+      "description": "Antonia is a single mother who works as a hotel maid in Berlin. A normal hot summer day takes a dramatic turn when she crosses paths with a particular guest of the hotel, famous blind portrait painter Julius Pass.",
+      "releaseYear": 2011,
+      "director": "Sergej Moya",
+      "durationMinutes": 38,
+      "rating": 6.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/47XRWH95ATv4szxdWHl723guWXP.jpg",
+      "genreNames": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Dune: Part Two",
+      "description": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "releaseYear": 2024,
+      "director": "Denis Villeneuve",
+      "durationMinutes": 167,
+      "rating": 8.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Toy Story",
+      "description": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+      "releaseYear": 1995,
+      "director": "John Lasseter",
+      "durationMinutes": 81,
+      "rating": 8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "genreNames": [
+        "Comedy",
+        "Animation",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "description": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+      "releaseYear": 2002,
+      "director": "Chris Columbus",
+      "durationMinutes": 161,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "description": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+      "releaseYear": 2003,
+      "director": "Peter Jackson",
+      "durationMinutes": 201,
+      "rating": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ]
+    },
+    {
+      "title": "Jackass: Best and Last",
+      "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+      "releaseYear": 2026,
+      "director": "Jeff Tremaine",
+      "durationMinutes": 92,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+      "genreNames": [
+        "Action",
+        "Comedy",
+        "Documentary"
+      ]
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "description": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+      "releaseYear": 2011,
+      "director": "David Yates",
+      "durationMinutes": 130,
+      "rating": 8.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Jurassic World Rebirth",
+      "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+      "releaseYear": 2025,
+      "director": "Gareth Edwards",
+      "durationMinutes": 134,
+      "rating": 6.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Adventure",
+        "Action"
+      ]
+    },
+    {
+      "title": "The Furious",
+      "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
+      "releaseYear": 2026,
+      "director": "Kenji Tanigaki",
+      "durationMinutes": 113,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+      "genreNames": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "The Sheep Detectives",
+      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "releaseYear": 2026,
+      "director": "Kyle Balda",
+      "durationMinutes": 109,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+      "genreNames": [
+        "Comedy",
+        "Mystery"
+      ]
+    },
+    {
+      "title": "Mortal Kombat II",
+      "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "releaseYear": 2026,
+      "director": "Simon McQuoid",
+      "durationMinutes": 116,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "genreNames": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Elize: Shadows of a Woman",
+      "description": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
+      "releaseYear": 2026,
+      "director": "Vellas",
+      "durationMinutes": 93,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+      "genreNames": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Avatar",
+      "description": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "releaseYear": 2009,
+      "director": "James Cameron",
+      "durationMinutes": 162,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Motor City",
+      "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+      "releaseYear": 2026,
+      "director": "Potsy Ponciroli",
+      "durationMinutes": 104,
+      "rating": 6.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ]
+    },
+    {
+      "title": "Leviticus",
+      "description": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
+      "releaseYear": 2026,
+      "director": "Adrian Chiarella",
+      "durationMinutes": 88,
+      "rating": 6.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+      "genreNames": [
+        "Horror",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Fall",
+      "description": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter's expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights.",
+      "releaseYear": 2022,
+      "director": "Scott Mann",
+      "durationMinutes": 107,
+      "rating": 7.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "The Punisher: One Last Kill",
+      "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+      "releaseYear": 2026,
+      "director": "Reinaldo Marcus Green",
+      "durationMinutes": 51,
+      "rating": 8.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+      "genreNames": [
+        "Action",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "title": "Thunderbolts*",
+      "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "releaseYear": 2025,
+      "director": "Jake Schreier",
+      "durationMinutes": 127,
+      "rating": 7.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "genreNames": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "description": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+      "releaseYear": 2015,
+      "director": "Joss Whedon",
+      "durationMinutes": 141,
+      "rating": 7.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Batman",
+      "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "releaseYear": 2022,
+      "director": "Matt Reeves",
+      "durationMinutes": 177,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "genreNames": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Nightborn",
+      "description": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their newborn, unbeknownst to Jon, causing a rift as she alone grapples with the disturbing truth.",
+      "releaseYear": 2026,
+      "director": "Hanna Bergholm",
+      "durationMinutes": 92,
+      "rating": 6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/e9ALgOANOJbcFpw84MbafK3xvD2.jpg",
+      "genreNames": [
+        "Horror"
+      ]
+    },
+    {
+      "title": "Top Gun: Maverick",
+      "description": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+      "releaseYear": 2022,
+      "director": "Joseph Kosinski",
+      "durationMinutes": 131,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "genreNames": [
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Pulp Fiction",
+      "description": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "releaseYear": 1994,
+      "director": "Quentin Tarantino",
+      "durationMinutes": 154,
+      "rating": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "genreNames": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "The Matrix",
+      "description": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "releaseYear": 1999,
+      "director": "Lana Wachowski",
+      "durationMinutes": 136,
+      "rating": 8.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+      "genreNames": [
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Fantastic 4: First Steps",
+      "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+      "releaseYear": 2025,
+      "director": "Matt Shakman",
+      "durationMinutes": 115,
+      "rating": 6.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Adventure",
+        "Action"
+      ]
+    },
+    {
+      "title": "Dune",
+      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+      "releaseYear": 2021,
+      "director": "Denis Villeneuve",
+      "durationMinutes": 155,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "The Wild Robot",
+      "description": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+      "releaseYear": 2024,
+      "director": "Chris Sanders",
+      "durationMinutes": 102,
+      "rating": 8.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "genreNames": [
+        "Animation",
+        "Sci-Fi",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "The Green Mile",
+      "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+      "releaseYear": 1999,
+      "director": "Frank Darabont",
+      "durationMinutes": 189,
+      "rating": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+      "genreNames": [
+        "Fantasy",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "title": "Fight Club",
+      "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "releaseYear": 1999,
+      "director": "David Fincher",
+      "durationMinutes": 139,
+      "rating": 8.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "genreNames": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Jungle",
+      "description": "In 1981, an enthusiastic young adventurer follows his dreams into the Bolivian Amazon jungle with two friends and a guide with a mysterious past. Their journey quickly turns into a terrifying ordeal as the darkest elements of human nature and the deadliest threats of the wilderness lead to an all-out fight for survival.",
+      "releaseYear": 2017,
+      "director": "Greg McLean",
+      "durationMinutes": 115,
+      "rating": 6.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg",
+      "genreNames": [
+        "Adventure",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "The Invite",
+      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "releaseYear": 2026,
+      "director": "Olivia Wilde",
+      "durationMinutes": 107,
+      "rating": 7.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "genreNames": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Parasite",
+      "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "releaseYear": 2019,
+      "director": "Bong Joon Ho",
+      "durationMinutes": 133,
+      "rating": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "genreNames": [
+        "Comedy",
+        "Thriller",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Spider-Man 3",
+      "description": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+      "releaseYear": 2007,
+      "director": "Sam Raimi",
+      "durationMinutes": 139,
+      "rating": 6.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+      "releaseYear": 2001,
+      "director": "Peter Jackson",
+      "durationMinutes": 179,
+      "rating": 8.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ]
+    },
+    {
+      "title": "Superman",
+      "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+      "releaseYear": 2025,
+      "director": "James Gunn",
+      "durationMinutes": 130,
+      "rating": 7.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Adventure",
+        "Action"
+      ]
+    },
+    {
+      "title": "Soulm8te",
+      "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+      "releaseYear": 2026,
+      "director": "Kate Dolan",
+      "durationMinutes": 99,
+      "rating": 7.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "genreNames": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "In the Grey",
+      "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "releaseYear": 2026,
+      "director": "Guy Ritchie",
+      "durationMinutes": 97,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 3",
+      "description": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "releaseYear": 2023,
+      "director": "James Gunn",
+      "durationMinutes": 150,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Adventure",
+        "Action"
+      ]
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "description": "Harry Potter's life is in danger once more as dangerous wizard Sirius Black has escaped from Azkaban Prison and is heading to Hogwarts.",
+      "releaseYear": 2004,
+      "director": "Alfonso Cuarón",
+      "durationMinutes": 141,
+      "rating": 8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Practical Magic",
+      "description": "Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
+      "releaseYear": 1998,
+      "director": "Griffin Dunne",
+      "durationMinutes": 104,
+      "rating": 6.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+      "genreNames": [
+        "Romance",
+        "Fantasy",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "Insidious",
+      "description": "A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
+      "releaseYear": 2011,
+      "director": "James Wan",
+      "durationMinutes": 102,
+      "rating": 7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+      "genreNames": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "From Straight A's to XXX",
+      "description": "When a change of circumstances leaves Miriam unable to pay her college tuition, she makes a surprising decision: to start performing in adult films, using the pseudonym Belle Knox. Miriam lies to her family and her friends at school, keeping her double life a secret. But soon rumours spread and Miriam becomes the subject of vicious online attacks and unwanted attention. Miriam fights back: she talks to the media, saying her new line of work empowers her as a feminist. But her confident stand has unintended consequences. Miriam is shunned by her conservative family and her colleagues in the adult film world. One impulsive decision has quickly spiralled out of control - and Miriam's problems are just beginning.",
+      "releaseYear": 2017,
+      "director": "Vanessa Parise",
+      "durationMinutes": 87,
+      "rating": 5.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7o7qmymPy1D9mASODsrOHq41Fye.jpg",
+      "genreNames": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Lion King",
+      "description": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+      "releaseYear": 1994,
+      "director": "Roger Allers",
+      "durationMinutes": 89,
+      "rating": 8.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "genreNames": [
+        "Animation",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "description": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+      "releaseYear": 2010,
+      "director": "David Yates",
+      "durationMinutes": 146,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Swapped",
+      "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+      "releaseYear": 2026,
+      "director": "Nathan Greno",
+      "durationMinutes": 102,
+      "rating": 8.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+      "genreNames": [
+        "Adventure",
+        "Animation",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Monsters, Inc.",
+      "description": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+      "releaseYear": 2001,
+      "director": "Pete Docter",
+      "durationMinutes": 92,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+      "genreNames": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Lee Cronin's The Mummy",
+      "description": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+      "releaseYear": 2026,
+      "director": "Lee Cronin",
+      "durationMinutes": 133,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg",
+      "genreNames": [
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "title": "The Amazing Spider-Man",
+      "description": "A teenage Peter Parker grapples with both high school and amazing super-human crises as his alter-ego Spider-Man.",
+      "releaseYear": 2012,
+      "director": "Marc Webb",
+      "durationMinutes": 136,
+      "rating": 6.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Gladiator",
+      "description": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+      "releaseYear": 2000,
+      "director": "Ridley Scott",
+      "durationMinutes": 155,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "genreNames": [
+        "Action",
+        "Drama",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Joker",
+      "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "releaseYear": 2019,
+      "director": "Todd Phillips",
+      "durationMinutes": 122,
+      "rating": 8.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "genreNames": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Forrest Gump",
+      "description": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "releaseYear": 1994,
+      "director": "Robert Zemeckis",
+      "durationMinutes": 142,
+      "rating": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "genreNames": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Lilo & Stitch",
+      "description": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+      "releaseYear": 2025,
+      "director": "Dean Fleischer Camp",
+      "durationMinutes": 108,
+      "rating": 7.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "The Devil's Mouth",
+      "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+      "releaseYear": 2026,
+      "director": "Jeff Wadlow",
+      "durationMinutes": 106,
+      "rating": 6.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+      "genreNames": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Venom: The Last Dance",
+      "description": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+      "releaseYear": 2024,
+      "director": "Kelly Marcel",
+      "durationMinutes": 109,
+      "rating": 6.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Coco",
+      "description": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "releaseYear": 2017,
+      "director": "Lee Unkrich",
+      "durationMinutes": 105,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+      "releaseYear": 2025,
+      "director": "Christopher McQuarrie",
+      "durationMinutes": 170,
+      "rating": 7.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iKPsC9EFUafRP9SrUznI61getVP.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "War Machine",
+      "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+      "releaseYear": 2026,
+      "director": "Patrick Hughes",
+      "durationMinutes": 110,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "genreNames": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Desire",
+      "description": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
+      "releaseYear": 2026,
+      "director": "Teresa Simone",
+      "durationMinutes": 97,
+      "rating": 6.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+      "genreNames": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Spirited Away",
+      "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "releaseYear": 2001,
+      "director": "Hayao Miyazaki",
+      "durationMinutes": 125,
+      "rating": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "genreNames": [
+        "Animation",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Graphic Desires",
+      "description": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
+      "releaseYear": 2023,
+      "director": "Andy Edwards",
+      "durationMinutes": 90,
+      "rating": 6.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
+      "genreNames": [
+        "Thriller",
+        "Crime"
+      ]
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "description": "When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools. Signs of Voldemort's return emerge as Harry's friends help him prepare for the Triwizard Tournament.",
+      "releaseYear": 2005,
+      "director": "Mike Newell",
+      "durationMinutes": 157,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "The Conjuring",
+      "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+      "releaseYear": 2013,
+      "director": "James Wan",
+      "durationMinutes": 112,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "genreNames": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "The Housemaid",
+      "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "releaseYear": 2025,
+      "director": "Paul Feig",
+      "durationMinutes": 131,
+      "rating": 7.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "genreNames": [
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Ballerina",
+      "description": "Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+      "releaseYear": 2025,
+      "director": "Len Wiseman",
+      "durationMinutes": 125,
+      "rating": 7.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ]
+    },
+    {
+      "title": "Iron Man 2",
+      "description": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+      "releaseYear": 2010,
+      "director": "Jon Favreau",
+      "durationMinutes": 124,
+      "rating": 6.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "genreNames": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Terminator",
+      "description": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+      "releaseYear": 1984,
+      "director": "James Cameron",
+      "durationMinutes": 108,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Toy Story 3",
+      "description": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+      "releaseYear": 2010,
+      "director": "Lee Unkrich",
+      "durationMinutes": 103,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "genreNames": [
+        "Animation",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "Sinners",
+      "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "releaseYear": 2025,
+      "director": "Ryan Coogler",
+      "durationMinutes": 138,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "genreNames": [
+        "Horror",
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "description": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+      "releaseYear": 1991,
+      "director": "James Cameron",
+      "durationMinutes": 137,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "My Fault",
+      "description": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+      "releaseYear": 2023,
+      "director": "Domingo González",
+      "durationMinutes": 116,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+      "genreNames": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "WALL·E",
+      "description": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+      "releaseYear": 2008,
+      "director": "Andrew Stanton",
+      "durationMinutes": 98,
+      "rating": 8.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "genreNames": [
+        "Animation",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Super Mario Bros. Movie",
+      "description": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      "releaseYear": 2023,
+      "director": "Aaron Horvath",
+      "durationMinutes": 93,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "genreNames": [
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ]
+    },
+    {
+      "title": "Zootopia",
+      "description": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+      "releaseYear": 2016,
+      "director": "Byron Howard",
+      "durationMinutes": 109,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "Star Wars",
+      "description": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+      "releaseYear": 1977,
+      "director": "George Lucas",
+      "durationMinutes": 121,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fai0rspsNeJCS69wHNjOdWxcI7P.jpg",
+      "genreNames": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Finding Nemo",
+      "description": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+      "releaseYear": 2003,
+      "director": "Andrew Stanton",
+      "durationMinutes": 100,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Crime 101",
+      "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+      "releaseYear": 2026,
+      "director": "Bart Layton",
+      "durationMinutes": 141,
+      "rating": 7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+      "genreNames": [
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "description": "Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.",
+      "releaseYear": 2006,
+      "director": "Gore Verbinski",
+      "durationMinutes": 151,
+      "rating": 7.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ]
+    },
+    {
+      "title": "Finding Nemo",
+      "description": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+      "releaseYear": 2003,
+      "director": "Andrew Stanton",
+      "durationMinutes": 100,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "description": "Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.",
+      "releaseYear": 2006,
+      "director": "Gore Verbinski",
+      "durationMinutes": 151,
+      "rating": 7.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ]
+    },
+    {
+      "title": "One Battle After Another",
+      "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+      "releaseYear": 2025,
+      "director": "Paul Thomas Anderson",
+      "durationMinutes": 162,
+      "rating": 7.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "genreNames": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "F1",
+      "description": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+      "releaseYear": 2025,
+      "director": "Joseph Kosinski",
+      "durationMinutes": 156,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "genreNames": [
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Citizen Vigilante",
+      "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
+      "releaseYear": 2026,
+      "director": "Uwe Boll",
+      "durationMinutes": 89,
+      "rating": 6.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "genreNames": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ]
+    },
+    {
+      "title": "Captain America: Civil War",
+      "description": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+      "releaseYear": 2016,
+      "director": "Joe Russo",
+      "durationMinutes": 147,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "genreNames": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Big Hero 6",
+      "description": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+      "releaseYear": 2014,
+      "director": "Don Hall",
+      "durationMinutes": 102,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "genreNames": [
+        "Adventure",
+        "Animation",
+        "Action",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "KPop Demon Hunters",
+      "description": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+      "releaseYear": 2025,
+      "director": "Maggie Kang",
+      "durationMinutes": 96,
+      "rating": 8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+      "genreNames": [
+        "Fantasy",
+        "Comedy",
+        "Animation"
+      ]
+    },
+    {
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "description": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+      "releaseYear": 2003,
+      "director": "Gore Verbinski",
+      "durationMinutes": 143,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ]
+    },
+    {
+      "title": "Weapons",
+      "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+      "releaseYear": 2025,
+      "director": "Zach Cregger",
+      "durationMinutes": 129,
+      "rating": 7.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "genreNames": [
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "title": "Alien",
+      "description": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+      "releaseYear": 1979,
+      "director": "Ridley Scott",
+      "durationMinutes": 117,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "genreNames": [
+        "Horror",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+      "releaseYear": 2025,
+      "director": "Tatsuya Yoshihara",
+      "durationMinutes": 100,
+      "rating": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
+      "genreNames": [
+        "Animation",
+        "Action",
+        "Romance",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Fury",
+      "description": "April, 1945. As the Allies make their final push in the European Theater, a battle-hardened army sergeant commands a Sherman tank with a five-man crew on a deadly mission behind enemy lines.",
+      "releaseYear": 2014,
+      "director": "David Ayer",
+      "durationMinutes": 135,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+      "genreNames": [
+        "War",
+        "Drama",
+        "Action"
+      ]
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "description": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor.",
+      "releaseYear": 2002,
+      "director": "Peter Jackson",
+      "durationMinutes": 179,
+      "rating": 8.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ]
+    },
+    {
+      "title": "The Amazing Spider-Man 2",
+      "description": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
+      "releaseYear": 2014,
+      "director": "Marc Webb",
+      "durationMinutes": 141,
+      "rating": 6.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Puss in Boots: The Last Wish",
+      "description": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+      "releaseYear": 2022,
+      "director": "Joel Crawford",
+      "durationMinutes": 103,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "Whiplash",
+      "description": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+      "releaseYear": 2014,
+      "director": "Damien Chazelle",
+      "durationMinutes": 107,
+      "rating": 8.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "genreNames": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Schindler's List",
+      "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "releaseYear": 1993,
+      "director": "Steven Spielberg",
+      "durationMinutes": 195,
+      "rating": 8.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "genreNames": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "title": "The Incredibles",
+      "description": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+      "releaseYear": 2004,
+      "director": "Brad Bird",
+      "durationMinutes": 115,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ]
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "releaseYear": 2022,
+      "director": "James Cameron",
+      "durationMinutes": 192,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Greenland 2: Migration",
+      "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+      "releaseYear": 2026,
+      "director": "Ric Roman Waugh",
+      "durationMinutes": 98,
+      "rating": 6.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+      "genreNames": [
+        "Adventure",
+        "Thriller",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Drama",
+      "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "releaseYear": 2026,
+      "director": "Kristoffer Borgli",
+      "durationMinutes": 105,
+      "rating": 6.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "genreNames": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Kill Bill: Vol. 1",
+      "description": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+      "releaseYear": 2003,
+      "director": "Quentin Tarantino",
+      "durationMinutes": 111,
+      "rating": 8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "genreNames": [
+        "Action",
+        "Crime"
+      ]
+    },
+    {
+      "title": "Back to the Future",
+      "description": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+      "releaseYear": 1985,
+      "director": "Robert Zemeckis",
+      "durationMinutes": 116,
+      "rating": 8.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "genreNames": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Coraline",
+      "description": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+      "releaseYear": 2009,
+      "director": "Henry Selick",
+      "durationMinutes": 100,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+      "genreNames": [
+        "Animation",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Se7en",
+      "description": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+      "releaseYear": 1995,
+      "director": "David Fincher",
+      "durationMinutes": 127,
+      "rating": 8.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "genreNames": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Frozen II",
+      "description": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+      "releaseYear": 2019,
+      "director": "Jennifer Lee",
+      "durationMinutes": 103,
+      "rating": 7.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "The Imitation Game",
+      "description": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+      "releaseYear": 2014,
+      "director": "Morten Tyldum",
+      "durationMinutes": 113,
+      "rating": 8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "genreNames": [
+        "Drama",
+        "Thriller",
+        "War"
+      ]
+    },
+    {
+      "title": "Black Panther: Wakanda Forever",
+      "description": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+      "releaseYear": 2022,
+      "director": "Ryan Coogler",
+      "durationMinutes": 162,
+      "rating": 7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Troy",
+      "description": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+      "releaseYear": 2004,
+      "director": "Wolfgang Petersen",
+      "durationMinutes": 163,
+      "rating": 7.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Barbie",
+      "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "releaseYear": 2023,
+      "director": "Greta Gerwig",
+      "durationMinutes": 114,
+      "rating": 6.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "genreNames": [
+        "Comedy",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "The Maze Runner",
+      "description": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+      "releaseYear": 2014,
+      "director": "Wes Ball",
+      "durationMinutes": 113,
+      "rating": 7.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+      "genreNames": [
+        "Action",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Apex",
+      "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "releaseYear": 2026,
+      "director": "Baltasar Kormákur",
+      "durationMinutes": 96,
+      "rating": 6.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "The Devil Wears Prada",
+      "description": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+      "releaseYear": 2006,
+      "director": "David Frankel",
+      "durationMinutes": 109,
+      "rating": 7.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "genreNames": [
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "Hacksaw Ridge",
+      "description": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+      "releaseYear": 2016,
+      "director": "Mel Gibson",
+      "durationMinutes": 139,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg",
+      "genreNames": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "description": "When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.",
+      "releaseYear": 2007,
+      "director": "David Yates",
+      "durationMinutes": 138,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "The Gorge",
+      "description": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+      "releaseYear": 2025,
+      "director": "Scott Derrickson",
+      "durationMinutes": 128,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "genreNames": [
+        "Romance",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Now You See Me: Now You Don't",
+      "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+      "releaseYear": 2025,
+      "director": "Ruben Fleischer",
+      "durationMinutes": 112,
+      "rating": 6.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+      "genreNames": [
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "description": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+      "releaseYear": 2012,
+      "director": "Christopher Nolan",
+      "durationMinutes": 165,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "genreNames": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Insidious: The Red Door",
+      "description": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+      "releaseYear": 2023,
+      "director": "Patrick Wilson",
+      "durationMinutes": 107,
+      "rating": 6.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/d07phJqCx6z5wILDYqkyraorDPi.jpg",
+      "genreNames": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "releaseYear": 2013,
+      "director": "Martin Scorsese",
+      "durationMinutes": 180,
+      "rating": 8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "genreNames": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "Ne Zha 2",
+      "description": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+      "releaseYear": 2025,
+      "director": "Jiao Zi",
+      "durationMinutes": 144,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+      "genreNames": [
+        "Animation",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Iron Man 3",
+      "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+      "releaseYear": 2013,
+      "director": "Shane Black",
+      "durationMinutes": 130,
+      "rating": 6.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "12 Angry Men",
+      "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+      "releaseYear": 1957,
+      "director": "Sidney Lumet",
+      "durationMinutes": 97,
+      "rating": 8.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+      "genreNames": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "Inside Out 2",
+      "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+      "releaseYear": 2024,
+      "director": "Kelsey Mann",
+      "durationMinutes": 97,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "The Godfather Part II",
+      "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "releaseYear": 1974,
+      "director": "Francis Ford Coppola",
+      "durationMinutes": 202,
+      "rating": 8.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sSuQTCZwqKrNBNIsksO9IAUoWP9.jpg",
+      "genreNames": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "title": "The Substance",
+      "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+      "releaseYear": 2024,
+      "director": "Coralie Fargeat",
+      "durationMinutes": 141,
+      "rating": 7.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "genreNames": [
+        "Horror",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Cars",
+      "description": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
+      "releaseYear": 2006,
+      "director": "John Lasseter",
+      "durationMinutes": 117,
+      "rating": 7.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "Gone Girl",
+      "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "releaseYear": 2014,
+      "director": "David Fincher",
+      "durationMinutes": 149,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "genreNames": [
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Equalizer",
+      "description": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+      "releaseYear": 2014,
+      "director": "Antoine Fuqua",
+      "durationMinutes": 132,
+      "rating": 7.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+      "genreNames": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ]
+    },
+    {
+      "title": "A Minecraft Movie",
+      "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+      "releaseYear": 2025,
+      "director": "Jared Hess",
+      "durationMinutes": 101,
+      "rating": 6.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "genreNames": [
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Blade Runner 2049",
+      "description": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+      "releaseYear": 2017,
+      "director": "Denis Villeneuve",
+      "durationMinutes": 164,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "description": "Dumbledore tries to prepare Harry for the final battle with Voldemort while Death Eaters wreak havoc in both Muggle and Wizard worlds.",
+      "releaseYear": 2009,
+      "director": "David Yates",
+      "durationMinutes": 153,
+      "rating": 7.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Django Unchained",
+      "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "releaseYear": 2012,
+      "director": "Quentin Tarantino",
+      "durationMinutes": 165,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "genreNames": [
+        "Drama",
+        "Western"
+      ]
+    },
+    {
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+      "releaseYear": 2022,
+      "director": "Sam Raimi",
+      "durationMinutes": 126,
+      "rating": 7.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "genreNames": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Inside Out",
+      "description": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+      "releaseYear": 2015,
+      "director": "Pete Docter",
+      "durationMinutes": 95,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "genreNames": [
+        "Animation",
+        "Adventure",
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "Insidious: Chapter 3",
+      "description": "A prequel set before the haunting of the Lambert family that reveals how gifted psychic Elise Rainier reluctantly agrees to use her ability to contact the dead in order to help a teenage girl who has been targeted by a dangerous supernatural entity.",
+      "releaseYear": 2015,
+      "director": "Leigh Whannell",
+      "durationMinutes": 97,
+      "rating": 6.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg",
+      "genreNames": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "The Debt Collector",
+      "description": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
+      "releaseYear": 2026,
+      "director": "Surapong Ploensang",
+      "durationMinutes": 134,
+      "rating": 8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ]
+    },
+    {
+      "title": "The Incredible Hulk",
+      "description": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+      "releaseYear": 2008,
+      "director": "Louis Leterrier",
+      "durationMinutes": 114,
+      "rating": 6.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "description": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+      "releaseYear": 2025,
+      "director": "Dean DeBlois",
+      "durationMinutes": 125,
+      "rating": 7.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+      "genreNames": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "The Departed",
+      "description": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+      "releaseYear": 2006,
+      "director": "Martin Scorsese",
+      "durationMinutes": 151,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "genreNames": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ]
+    },
+    {
+      "title": "Predator: Badlands",
+      "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "releaseYear": 2025,
+      "director": "Dan Trachtenberg",
+      "durationMinutes": 107,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "genreNames": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
+      "releaseYear": 2026,
+      "director": "Andrew Bernstein",
+      "durationMinutes": 107,
+      "rating": 6.9,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+      "genreNames": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Fast X",
+      "description": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+      "releaseYear": 2023,
+      "director": "Louis Leterrier",
+      "durationMinutes": 142,
+      "rating": 7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "genreNames": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Deadpool 2",
+      "description": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+      "releaseYear": 2018,
+      "director": "David Leitch",
+      "durationMinutes": 120,
+      "rating": 7.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "genreNames": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+      "releaseYear": 2017,
+      "director": "Taika Waititi",
+      "durationMinutes": 131,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "genreNames": [
+        "Action",
+        "Sci-Fi",
+        "Comedy",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "description": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+      "releaseYear": 2015,
+      "director": "George Miller",
+      "durationMinutes": 121,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Moana 2",
+      "description": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+      "releaseYear": 2024,
+      "director": "David G. Derrick Jr.",
+      "durationMinutes": 100,
+      "rating": 7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+      "genreNames": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "The Good, the Bad and the Ugly",
+      "description": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+      "releaseYear": 1966,
+      "director": "Sergio Leone",
+      "durationMinutes": 161,
+      "rating": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "genreNames": [
+        "Western"
+      ]
+    },
+    {
+      "title": "Logan",
+      "description": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+      "releaseYear": 2017,
+      "director": "James Mangold",
+      "durationMinutes": 137,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "genreNames": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Insidious: The Last Key",
+      "description": "Parapsychologist Elise Rainier and her team travel to Five Keys, NM, to investigate a man’s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family’s old home.",
+      "releaseYear": 2018,
+      "director": "Adam Robitel",
+      "durationMinutes": 103,
+      "rating": 6.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg",
+      "genreNames": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
+      "description": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+      "releaseYear": 2017,
+      "director": "James Gunn",
+      "durationMinutes": 137,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "genreNames": [
+        "Sci-Fi",
+        "Adventure",
+        "Action"
+      ]
+    },
+    {
+      "title": "Doctor Strange",
+      "description": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+      "releaseYear": 2016,
+      "director": "Scott Derrickson",
+      "durationMinutes": 115,
+      "rating": 7.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+      "genreNames": [
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ]
+    },
+    {
+      "title": "Shrek",
+      "description": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+      "releaseYear": 2001,
+      "director": "Andrew Adamson",
+      "durationMinutes": 90,
+      "rating": 7.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "genreNames": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ]
+    },
+    {
+      "title": "Toy Story 2",
+      "description": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+      "releaseYear": 1999,
+      "director": "John Lasseter",
+      "durationMinutes": 92,
+      "rating": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+      "genreNames": [
+        "Animation",
+        "Comedy"
+      ]
+    },
+    {
+      "title": "Scarface",
+      "description": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+      "releaseYear": 1983,
+      "director": "Brian De Palma",
+      "durationMinutes": 170,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "genreNames": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Captain Marvel",
+      "description": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+      "releaseYear": 2019,
+      "director": "Ryan Fleck",
+      "durationMinutes": 124,
+      "rating": 6.8,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "genreNames": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "Shutter Island",
+      "description": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+      "releaseYear": 2010,
+      "director": "Martin Scorsese",
+      "durationMinutes": 138,
+      "rating": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "genreNames": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ]
+    },
+    {
+      "title": "Scream 7",
+      "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+      "releaseYear": 2026,
+      "director": "Kevin Williamson",
+      "durationMinutes": 114,
+      "rating": 6.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+      "genreNames": [
+        "Horror",
+        "Mystery",
+        "Crime"
+      ]
+    },
+    {
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "description": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.",
+      "releaseYear": 2005,
+      "director": "Andrew Adamson",
+      "durationMinutes": 143,
+      "rating": 7.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+      "genreNames": [
+        "Adventure",
+        "Fantasy"
+      ]
+    }
+  ]
+}
