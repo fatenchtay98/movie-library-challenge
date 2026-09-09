@@ -1,12 +1,22 @@
 import { Route, Routes } from 'react-router-dom';
 
-import { Home } from './pages/Home';
+import { Navbar } from './components/Navbar';
+import { LoginPage } from './pages/LoginPage';
+import { MovieDetailPage } from './pages/MovieDetailPage';
+import { MovieLibraryPage } from './pages/MovieLibraryPage';
+import { RegisterPage } from './pages/RegisterPage';
 
 function App() {
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-    </Routes>
+    <div className="min-h-screen bg-slate-50">
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<MovieLibraryPage />} />
+        <Route path="/movies/:id" element={<MovieDetailPage />} />
+        <Route path="/login" element={<LoginPage />} />
+        <Route path="/register" element={<RegisterPage />} />
+      </Routes>
+    </div>
   );
 }
 
