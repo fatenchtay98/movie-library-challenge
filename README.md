@@ -5,6 +5,10 @@ movies; admins can create, edit, and delete entries. Built as a take-home
 coding challenge — see [`DECISIONS.md`](./DECISIONS.md) for the architecture
 rationale, trade-offs, and how AI was used during development.
 
+**Live demo:** https://movie-library-0en0.onrender.com (free tier — the
+first request after idle can take ~50s to wake up; see [Deployment
+(Render)](#deployment-render))
+
 ## Features
 
 - Email/password authentication (JWT in an httpOnly cookie)
