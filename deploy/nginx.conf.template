@@ -1,0 +1,25 @@
+server {
+    # ${PORT} is substituted at container start (see start.sh) from Render's
+    # dynamic PORT env var — Render decides what port it health-checks, not us.
+    listen ${PORT};
+    server_name _;
+    root /usr/share/nginx/html;
+    index index.html;
+
+    # Same-origin from the browser's perspective, same as nginx.conf/docker-
+    # compose locally: the client calls relative /api/... URLs, nginx forwards
+    # to the server process in this same container over localhost. Keeps the
+    # httpOnly auth cookie first-party with no CORS/SameSite changes needed.
+    location /api/ {
+        proxy_pass http://127.0.0.1:4000/api/;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+    # SPA fallback so client-side routes (react-router) survive a hard refresh.
+    location / {
+        try_files $uri /index.html;
+    }
+}

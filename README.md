@@ -267,6 +267,36 @@ validate against (`@asteasolutions/zod-to-openapi`), is served at:
   **http://localhost:4000/api/docs** (direct)
 - Raw OpenAPI JSON at the same path + `/openapi.json`
 
+## Deployment (Render)
+
+A live demo can be deployed for free on [Render](https://render.com) via
+the included `render.yaml` blueprint — no credit card required, no
+rearchitecting. It builds `deploy/Dockerfile`, a **separate**,
+Render-only image that packages nginx + the built client + the server into
+one container (see `DECISIONS.md` for why this differs from the 3-service
+`docker-compose.yml` used for local review).
+
+**One-time setup:**
+
+1. Push this repo to GitHub (already done if you're reading this from a
+   clone).
+2. On Render: **New → Blueprint**, connect the repo. Render reads
+   `render.yaml` and provisions a free Postgres instance plus the web
+   service automatically, generating a random `JWT_SECRET`.
+3. Once the first deploy finishes, open the service's **Shell** tab and run
+   the same migrate + seed commands as local Docker (see [Quick
+   start](#quick-start-docker-recommended)):
+   ```bash
+   npx prisma migrate deploy
+   npm run prisma:seed
+   ```
+4. Visit the service's `onrender.com` URL.
+
+Free-tier notes: the web service spins down after inactivity (a cold start
+takes a few seconds on the next visit), and free Postgres instances expire
+after 30 days — both are fine for a short-lived demo, not for long-term
+hosting.
+
 ## Reviewer notes
 
 - **First-time setup needs one manual step** — after `docker compose up

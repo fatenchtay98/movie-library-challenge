@@ -158,6 +158,21 @@ finished design rather than default browser styling, for less effort than
 building and testing two themes. A real product would very likely want a
 toggle; skipped here as suggested-feature polish, not a required one.
 
+**Render deployment uses a fourth, separate Dockerfile
+(`deploy/Dockerfile`), not the existing `client`/`server` ones.** Render's
+free tier is one long-running container per service, not a docker-compose
+stack, and the client/server split only works together in production
+because nginx makes them same-origin — so a live demo needed either (a) two
+Render services (server + static client) with cross-origin cookies
+(`SameSite=None`, CORS, re-verifying auth end-to-end), or (b) nginx + client
++ server combined into one container, preserving the exact same-origin
+architecture already built and tested. Went with (b): a second Dockerfile
+to maintain is a real cost, but it's strictly additive deployment plumbing,
+versus (a) touching the most security-sensitive code in the app
+(cookies/CORS) for what's an optional, suggested feature. The local
+`docker-compose.yml` 3-service setup is untouched and stays the reviewer's
+primary path.
+
 **Deliberately deferred, production-auth features:** refresh tokens (a
 single `JWT_EXPIRES_IN`-lived token with no rotation — expiry alone forces
 re-login), rate limiting on login/register (no brute-force protection at
